@@ -1,0 +1,38 @@
+<!-- ---
+layout: default
+permalink: /
+title: Welcome to my website - Home
+page_title: Blogs
+paeg_content : Welcome to my site, You can view all my blogs below.
+--- -->
+<div>
+  {% for post in site.posts %}
+  <div>
+    <a href="{{ site.github.url }}/projects/{{ project.url }}" class="text-lg text-black font-bold no-underline hover:underline">{{ page.page_title }}       
+    </a>
+  </div>
+  <p class="text-grey-darkest text-base leading-normal mt-1">
+    Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Quam in ab exercitationem dolor doloribus! Illo ex qui quia quas beatae?
+  </p>
+  <div class="text-grey-darkest text-base leading-normal mt-2">
+    <a href="/" class="text-grey-darker hover:text-black text-sm no-underline hover:underline">Read this article &rarr;</a>
+  </div>
+  {% endfor %}
+</div>
+
+
+<!-- 
+<section>
+  {% for post in site.posts %}
+  <div class="project-container">
+    <a href="{{ site.github.url }}/projects/{{ project.url }}">
+      <div class="project-unit" data-folder="{{ site.github.url }}/projects/{{ project.url }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg)">
+        <div class="project-overlay">
+          <strong>{{ post.title }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+        </div>
+      </div>
+    </a>
+  </div>
+  {% endfor %}
+</section>
+ -->

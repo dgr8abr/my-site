@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>  
+    #1 Hello world 
+    
+  </title>
+  <!-- <link href="https://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet"> -->
+  <link rel="stylesheet" href="/dist/fonts.css">
+  <link rel="stylesheet" href="/dist/style.css">
+  <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="font-sans leading-tight antialiased">
+  <div id="app" class="text-grey-darkest bg-svg py-8 lg:py-16 px-6 md:px-16 lg:px-24 ">
+    <!-- pic with name.. -->
+    <div class="relative z-20 flex justify-between items-center">
+      <div class="flex md:block lg:flex items-center max-w-full">
+        <div class="mb-0 md:mb-4 lg:mb-0 flex flex-no-shrink pr-4 md:pr-6 lg:pr-12">
+          <a href="/" class="flex items-center no-underline">
+            <img class="h-12 w-12 md:h-12 md:w-12 lg:h-20 lg:w-20 rounded-full" src="http://localhost:4000/src/pic.png"  />
+          </a>  
+        </div>
+        <div> 
+          <a href="/" class="block text-black no-underline font-bold text-xl lg:text-3xl font-extrabold leading-none lg:leading-tight">Abrham Bas
+          </a>
+          <nav class="hidden md:flex mt-3 lg:mt-4 uppercase tracking-wide text-xs spaced-x-6">
+            
+            <a href="http://localhost:4000/" class="text-grey-dark font-sans font-bold no-underline hover:text-black">
+              Blogs --
+            </a>
+            
+            <a href="http://localhost:4000/columns" class="text-grey-dark font-sans font-bold no-underline hover:text-black">
+              Columns --
+            </a>
+            
+            <a href="http://localhost:4000/work" class="text-grey-dark font-sans font-bold no-underline hover:text-black">
+              Work --
+            </a>
+            
+            <a href="http://localhost:4000/projects" class="text-grey-dark font-sans font-bold no-underline hover:text-black">
+              Projects --
+            </a>
+            
+            <a href="http://localhost:4000/journal" class="text-grey-dark font-sans font-bold no-underline hover:text-black">
+              Journal --
+            </a>
+            
+            <a href="http://localhost:4000/podcasts" class="text-grey-dark font-sans font-bold no-underline hover:text-black">
+              Podcasts --
+            </a>
+            
+
+          </nav>
+        </div>
+      </div>
+      <div class="block md:hidden">
+        <button class="block" @click="toggleMenu">
+          <svg style="display: block;" :class="menuOpen ? 'hidden' : 'block'" class="block text-black h-6 w-6" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/  ></svg>
+            <svg style="display: none;" :class="menuOpen ? 'block' : 'hidden'" class="text-black h-6 w-6" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 8.586L2.929 1.515 1.515 2.929 8.586 10l-7.071 7.071 1.414 1.414L10 11.414l7.071 7.071 1.414-1.414L11.414 10l7.071-7.071-1.414-1.414L10 8.586z"/></svg>
+          </button>
+        </div>
+      </div>
+      <!-- end pic with name -->
+
+      <div style="display: none;" :class="menuOpen ? 'block' : 'hidden'" class="md:hidden z-10 bg-white fixed pin pt-24">
+        <div class="spaced-y-8 overflow-y-auto pt-6 pb-8 px-12 max-h-full overflow-y-auto">
+          <a href="/" class="block text-black font-bold no-underline">Blogs</a>
+          <a href="/columns" class="block text-black font-bold no-underline">Columns</a>
+          <a href="/work" class="block text-black font-bold no-underline">Work</a>
+          <a href="/projects" class="block text-black font-bold no-underline">Projects</a>
+          <a href="/journal" class="block text-black font-bold no-underline">Journal</a>
+          <a href="/contact" class="block text-black font-bold no-underline">Podcast</a>
+        </div>
+      </div>
+      <div class="lg:pl-32 mt-12">
+        <div class="max-w-md">
+          <h1 class="text-2xl font-extrabold text-black mb-4"></h1>
+          <div class="text-lg text-grey-darkest leading-normal spaced-y-6">
+            <p> 
+
+              <a href="#" class="text-black font-bold"></a>  </p>
+
+            </div>
+            <div class="mt-12 spaced-y-10">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quos a, veniam eligendi inventore voluptatibus culpa vero dolor nulla harum!</p>
+
+
+            </div>
+            <div class="mt-12 text-lg text-grey-darkest leading-normal spaced-y-6">
+              <p>Read the rest of my articles in the <a href="/archives" class="text-black">archives</a>.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="http://localhost:4000/dist/vue.js"></script>
+
+    <script>
+      new Vue({
+        el: '#app',
+        data: {
+          menuOpen: false
+        },
+        methods: {
+          toggleMenu: function () {
+            if (this.menuOpen) {
+              this.menuOpen = false
+              document.body.classList.remove('scrolling-auto', 'overflow-hidden', 'fixed', 'pin-x')
+            } else {
+              this.menuOpen = true
+              document.body.classList.add('scrolling-auto', 'overflow-hidden', 'fixed', 'pin-x')
+            }
+          }
+        }
+      })
+    </script>
+  </body>
+</body>
+</html>

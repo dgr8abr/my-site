@@ -1,0 +1,41 @@
+@font-face { 
+ font-family: Open Sans; 
+ font-weight: normal;
+ src: url("../../OpenSans-Regular.ttf") format('ttf'); 
+}
+
+@font-face { 
+ font-family: Open Sans; 
+ font-weight: bold; 
+ src: url("../../OpenSans-Bold.ttf") format('ttf'); 
+}
+
+@font-face { 
+ font-family: Open Sans; 
+ font-weight: normal;
+ src: url("../../OpenSans-Regular.ttf") format('ttf'); 
+}
+
+
+@font-face { 
+ font-family: Roboto; 
+ font-style: italic; 
+ src: url("../../OpenSans-Italic.ttf") format('ttf'); 
+} 
+
+@font-face { 
+ font-family: Roboto; 
+ font-weight: normal;
+ src: url("../../Roboto-Regular.ttf") format('ttf'); 
+}
+
+@font-face { 
+ font-family: Roboto; 
+ font-weight: bold;
+ src: url("../../Roboto-Bold.ttf") format('ttf'); 
+}
+
+@font-face { 
+ font-family: Roboto; 
+ src: url("../../Roboto-Medium.ttf") format('ttf'); 
+}

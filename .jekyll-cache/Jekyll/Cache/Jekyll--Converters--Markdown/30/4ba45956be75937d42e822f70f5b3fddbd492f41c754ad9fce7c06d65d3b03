@@ -1,0 +1,79 @@
+I"ï
+<div class="p-4 bg-grey-lightest">
+	
+	<div>
+		<a href="#" class="text-xl text-grey-darker font-bold no-underline hover:text-black">
+			Hard times       
+		</a>
+	</div>
+	<p class="text-grey-darkest text-base leading-normal mt-1">
+			 Special Thanks to Render for helping me publish this site. I just miss the wordpress style of publishing content, but there was some things that I need to fix in...
+	</p>
+	<div class="mb-8 text-grey-darkest text-base leading-normal mt-2">
+		<a href="" class="text-grey-darker hover:text-black text-sm no-underline hover:underline">Read this blog post &rarr;</a>
+	</div>
+	
+	<div>
+		<a href="#" class="text-xl text-grey-darker font-bold no-underline hover:text-black">
+			So,what's the point       
+		</a>
+	</div>
+	<p class="text-grey-darkest text-base leading-normal mt-1">
+			 Good day, Welcome to my website and I appreciate you visiting my blog, If youâ€™re reading this, then maybe you knew me before or perhaps we met once or twice...
+	</p>
+	<div class="mb-8 text-grey-darkest text-base leading-normal mt-2">
+		<a href="" class="text-grey-darker hover:text-black text-sm no-underline hover:underline">Read this blog post &rarr;</a>
+	</div>
+	
+	<div>
+		<a href="#" class="text-xl text-grey-darker font-bold no-underline hover:text-black">
+			#1 Hello world       
+		</a>
+	</div>
+	<p class="text-grey-darkest text-base leading-normal mt-1">
+			 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quos a, veniam eligendi inventore voluptatibus culpa vero dolor nulla harum!
+
+
+	</p>
+	<div class="mb-8 text-grey-darkest text-base leading-normal mt-2">
+		<a href="" class="text-grey-darker hover:text-black text-sm no-underline hover:underline">Read this blog post &rarr;</a>
+	</div>
+	
+</div>
+
+<!-- 
+<section>
+	
+	<div class="project-container">
+		<a href="/projects/">
+			<div class="project-unit" data-folder="/projects/" style="background-image: url(/assets/img/projects//thumbnail.jpg)">
+				<div class="project-overlay">
+					<strong>Hard times <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+				</div>
+			</div>
+		</a>
+	</div>
+	
+	<div class="project-container">
+		<a href="/projects/">
+			<div class="project-unit" data-folder="/projects/" style="background-image: url(/assets/img/projects//thumbnail.jpg)">
+				<div class="project-overlay">
+					<strong>So,what's the point <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+				</div>
+			</div>
+		</a>
+	</div>
+	
+	<div class="project-container">
+		<a href="/projects/">
+			<div class="project-unit" data-folder="/projects/" style="background-image: url(/assets/img/projects//thumbnail.jpg)">
+				<div class="project-overlay">
+					<strong>#1 Hello world <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+				</div>
+			</div>
+		</a>
+	</div>
+	
+</section>
+ -->
+:ET

@@ -1,0 +1,12 @@
+- name: Blogs
+  link: /
+- name: Columns
+  link: /columns
+- name: Work
+  link: /work
+- name: Contact
+  link: /contact
+- name: Journal
+  link: /journal
+- name: Projects
+  link: /projects

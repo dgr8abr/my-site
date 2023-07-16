@@ -1,0 +1,8 @@
+collections:
+  columns
+    order: 
+      - columns/inequality and inefficiency.md
+      - columns/good governance.md
+
+plugins:
+  - jekyll-feed  
