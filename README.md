@@ -1,1 +1,0 @@
-# Abr D'Gr8's Commonplace book
