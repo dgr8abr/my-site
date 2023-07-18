@@ -1,0 +1,12 @@
+# ignore everything in this directory
+### Jekyll ###
+_site
+.jekyll-cache
+
+### Sass ###
+.sass-cache
+
+### Gemfile ###
+Gemfile.lock
+node_modules/
+jekyll-format.png
