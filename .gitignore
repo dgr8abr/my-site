@@ -8,5 +8,5 @@ _site
 
 ### Gemfile ###
 Gemfile.lock
-node_modules/
+/node_modules/
 jekyll-format.png
