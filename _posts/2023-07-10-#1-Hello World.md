@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: post
 author: aib
 ---
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quos a, veniam eligendi inventore voluptatibus culpa vero dolor nulla harum!
 
 
-
-
+This will be my first post, testing 1,2,3

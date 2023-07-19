@@ -2,7 +2,14 @@ collections:
   columns
     order: 
       - columns/inequality and inefficiency.md
-      - columns/good governance.md
 
-plugins:
-  - jekyll-feed  
+# port: 4000
+# markdown:  kramdown
+permalink: /:title
+plugins: [ jekyll-feed, jekyll-seo-tag ]
+
+
+title :       "A.I.B'S Commonplace"
+description : "Powered by Jekyll and Netlify"
+author :      "Abr Bas"
+url :         https://abrdgr8.netlify.app/

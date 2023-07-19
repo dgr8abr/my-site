@@ -6,41 +6,6 @@
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
- @font-face { 
-   font-family: 'Open Sans'; 
-   font-weight: normal;
-   src: url("./dist/OpenSans-Regular.ttf") format('ttf'); 
-}
-
-@font-face { 
-   font-family: 'Open Sans'; 
-   font-weight: bold; 
-   src: url("./dist/OpenSans-Bold.ttf") format('ttf'); 
-}
-
-@font-face { 
-   font-family: 'Open Sans'; 
-   font-weight: normal;
-   src: url("./dist/OpenSans-Regular.ttf") format('ttf'); 
-}
-
-@font-face { 
-   font-family: 'Roboto'; 
-   font-weight: normal;
-   src: url("./dist/fonts/Roboto-Regular.ttf") format('ttf'); 
-}
-
-@font-face { 
-   font-family: 'Roboto'; 
-   font-weight: bold;
-   src: url("./dist/fonts/Roboto-Bold.ttf") format('ttf'); 
-}
-
-@font-face { 
-   font-family: 'Roboto'; 
-   src: url("./dist/fonts/Roboto-Medium.ttf") format('ttf'); 
-}
-
 
 html {
     line-height: 1.15;

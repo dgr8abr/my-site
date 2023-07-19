@@ -56,6 +56,8 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
+    jekyll-seo-tag (2.8.0)
+      jekyll (>= 3.8, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -66,7 +68,7 @@ GEM
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    lumberjack (1.2.8)
+    lumberjack (1.2.9)
     mercenary (0.4.0)
     method_source (1.0.0)
     multi_json (1.15.0)
@@ -106,6 +108,7 @@ DEPENDENCIES
   guard-livereload
   jekyll
   jekyll-feed
+  jekyll-seo-tag
   webrick (~> 1.7)
 
 BUNDLED WITH

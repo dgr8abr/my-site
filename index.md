@@ -3,21 +3,22 @@ layout: default
 permalink: /
 title: A.I.B
 page_title: Blogs
-page_intro : Welcome to my site, here you can view all the things about me, now check blogs below.
+page_link_phrase : Click here to be updated with my RSS feeds.
+page_link_phrase_2 : Welcome to my site here you can view all the things about me, now check all my blogs below.
 ---
 
 <div class="p-4 bg-grey-lightest">
 	{% for post in site.posts %}
 	<div>
-		<a href="#" class="text-xl text-grey-darker font-bold no-underline hover:text-black">
-			{{ post.title }}       
+		<a href="{{ post.url }}" class="text-xl text-grey-dark font-bold no-underline hover:text-black">
+			{{ post.title }}    
 		</a>
 	</div>
 	<p class="text-grey-darkest text-base leading-normal mt-1">
 			 {{ post.content | markdownify | strip_html | truncatewords: 30 }}
 	</p>
 	<div class="mb-8 text-grey-darkest text-base leading-normal mt-2">
-		<a href="" class="text-grey-darker hover:text-black text-sm no-underline hover:underline">Read this blog post &rarr;</a>
+		<a href="" class="text-grey-darker hover:text-black text-sm no-underline hover:underline">Read this blog post that was Posted on : {{ post.date | date_to_string }} </a>
 	</div>
 	{% endfor %}
 </div>
