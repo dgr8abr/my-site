@@ -23,8 +23,8 @@ One of those countries with the best internet connections that’s closest to Ph
 By comparing our ISP’s to theirs, we will be able to devise a strategy on how we can improve ours.
 Geographically, Taiwan has the upper hand as it is an archipelagic country with few islands, Philippines on the other hand is an archipelagic country with its 7,107 islands, a banal trivia that some experts will find it daunting for the Philippines to build a robust internet infrastructure as it requires a lot of resources to maintain such infrastructure with the complexity of bridging it thru multiple islands.
 
-{% include image.html url="http://www.gratisography.com" image="../assets/photos/jekyll-format.png" %}
-{% include image.html url="http://www.gratisography.com" image="../assets/photos/jekyll-format.png" %}
+{% include image.html image="speedtest-taiwan.png" %}
+{% include image.html image="speedtest-phil.png" %}
 
 
 In the picture above, we show an internet speed test comparison between the two, Taiwan’s geographical advantage proved to be noticeable, as it has few geographic islands compared to our 7,107 islands.  But if our government’s long-term goal is to improve our internet reliability, why not we look into a partnership with <a href="./">Starlink</a> who uses low-orbit satellites to establish internet connectivity as a short-term solution to unreliable internet connection, and after that, create a plan to make it accessible and affordable to every working age Filipinos, 18-55 years old so that they can continue their work remotely or from home while gradually devising a comprehensive fiber-optic infrastructure to power its 7,107 islands that would take several years to complete.    
