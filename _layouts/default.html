@@ -8,26 +8,25 @@
   <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
   <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
   <title> 
-   {% if page.title == "Home" %}
-   {{ site.title }}
-   {% else %}
-   {{ page.title }} 
-   {% endif %}
+       {% if page.title == "Home" %}
+             {{ site.title }}
+       {% else %}
+             {{ page.title }} 
+       {% endif %}
  </title>
- <!-- <link href="https://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet"> -->
+ <link href="https://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet">
  <link rel="stylesheet" href="{{ '/assets/fonts.css' | absolute_url  }}">
- <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+ <link rel="stylesheet" href="{{ '/assets/style.css' | absolute_url }}">
  <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
- {% feed_meta %}
- {% include analytics.html %}
- {% seo %}
+       {% feed_meta %}
+       {% include analytics.html %}
+       {% seo %}
 </head>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WL8C3CWJ9R"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-WL8C3CWJ9R');
 </script>
 <body class="font-sans leading-tight antialiased">
@@ -41,7 +40,7 @@
           </a>  
         </div>
         <div> 
-          <a href="/" class="block text-black no-underline font-bold text-xl lg:text-3xl font-extrabold leading-none lg:leading-tight">Abrham Bas
+          <a href="/" class="block text-black no-underline text-xl lg:text-3xl font-extrabold leading-none lg:leading-tight font-serif">Abr D' Great Bas
           </a>
           <nav class="hidden md:flex mt-3 lg:mt-4 uppercase tracking-wide text-xs spaced-x-6">
             {% for item in site.data.settings.menu %}
@@ -71,45 +70,45 @@
      </div>
      <div class="lg:pl-32 mt-12">
       <div class="max-w-md">
-        <h1 class="text-2xl font-extrabold text-black mb-4">{{ page.page_title  }}</h1>
+        <h1 class="text-2xl font-serif font-bold text-black mb-4">{{ page.page_title  }}</h1>
         <div class="text-lg text-grey-darkest leading-normal spaced-y-6">
           <p>
-              {{ page.page_link_phrase_2 }} 
-              <a href="#" class="text-black font-bold">{{ page.page_link_phrase }}</a> 
-            </p>
-          </div>
-          <div class="mt-12 text-black font-serif spaced-y-10">
-            {{ content }}
-          </div>
-          <div class="mt-12 text-lg text-grey-darkest leading-normal spaced-y-6">
-            <p>{{ page.para_footer }} <a href="/archives" class="text-black">{{ page.para_link }}</a>.
-            </p>
-          </div>
+            {{ page.page_link_phrase_2 }} 
+            <a href="#" class="text-black font-bold font-sans">{{ page.page_link_phrase }}</a> 
+          </p>
+        </div>
+        <div class="mt-12 text-black font-serif spaced-y-10">
+          {{ content }}
+        </div>
+        <div class="mt-16 text-lg text-grey-darkest leading-normal spaced-y-6">
+          <p>{{ page.para_footer }} <a href="#" class="text-black">{{ page.para_link }}</a>.
+          </p>
         </div>
       </div>
     </div>
+  </div>
 
-    <script src="{{ 'assets/vue.js' | absolute_url }}"></script>
+  <script src="{{ 'assets/vue.js' | absolute_url }}"></script>
 
-    <script>
-      new Vue({
-        el: '#app',
-        data: {
-          menuOpen: false
-        },
-        methods: {
-          toggleMenu: function () {
-            if (this.menuOpen) {
-              this.menuOpen = false
-              document.body.classList.remove('scrolling-auto', 'overflow-hidden', 'fixed', 'pin-x')
-            } else {
-              this.menuOpen = true
-              document.body.classList.add('scrolling-auto', 'overflow-hidden', 'fixed', 'pin-x')
-            }
+  <script>
+    new Vue({
+      el: '#app',
+      data: {
+        menuOpen: false
+      },
+      methods: {
+        toggleMenu: function () {
+          if (this.menuOpen) {
+            this.menuOpen = false
+            document.body.classList.remove('scrolling-auto', 'overflow-hidden', 'fixed', 'pin-x')
+          } else {
+            this.menuOpen = true
+            document.body.classList.add('scrolling-auto', 'overflow-hidden', 'fixed', 'pin-x')
           }
         }
-      });
-    </script>
-  </body>
+      }
+    });
+  </script>
+</body>
 </body>
 </html>

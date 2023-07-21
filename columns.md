@@ -3,7 +3,7 @@ layout: default
 page_title: Columns 
 title: Columns -- AIB
 permalink: /columns
-page_intro : Welcome to my site, These are my columns, I write about politics and social issues because I care about life and my country.
+page_link_phrase_2 : Welcome to my site, These are my columns, I write about politics and social issues because I care about life and my country.
 ---
 <div>
 	{% for column in site.data.settings.column %}

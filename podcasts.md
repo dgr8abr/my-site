@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /projects
+permalink: /podcasts
 title: A.I.B
-page_title: Projects
+page_title: PODCASTS
 ---
 
 ## UNDER CONSTRUCTION !!!

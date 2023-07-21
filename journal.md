@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /projects
+permalink: /journal
 title: A.I.B
-page_title: Projects
+page_title: Journal
 ---
 
 ## UNDER CONSTRUCTION !!!

@@ -21,3 +21,28 @@
 ├── .jekyll-metadata
 └── index.html # can also be an 'index.md' with valid front matter
 
+
+
+
+_asda_
+__this is a text__
+_this is a text_
+*italic*
+**bold**
+**__asdf__**
+**_bold and italic_**
+Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
+SAMPLE TEXT
+---
