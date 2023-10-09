@@ -11,5 +11,6 @@ Friends, readers, and acquaintances.
 
 How are you today? 
 
-I will be renaming or calling my political columns page to The Viewpoint.  
+I will be renaming or calling my political columns page to The Viewpoint as it sounded cool to name it like that.
+
 
