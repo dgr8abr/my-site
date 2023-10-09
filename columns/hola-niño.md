@@ -1,7 +1,7 @@
 ---
 layout: default
 title : Column # 2
-page_title : Column
+page_title : The ViewPoint
 author: aib
 permalink : /columns/hola-niño
 para_footer : To be updated with my future columns, click 
