@@ -11,6 +11,7 @@ column:
   - { name: 'Inequality and Inefficiency', date : 2023-07-16, url: 'columns/inequality-and-inefficiency' } 
   - { name: 'Hola Niño', date : 2023-07-19, url:  'columns/hola-niño' }
   - { name: 'Rice Up', date : 2023-08-28, url:  'columns/rice-up' }
+  - { name: 'Unfair', date : 2023-09-10, url:  'columns/unfair' }
 
 # Work Section
 

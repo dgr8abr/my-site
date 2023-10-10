@@ -10,11 +10,10 @@ para_link : here and save my RSS feeds
 
 # #3 **RICE UP**
 
+### - THIS ARTICLE SHOULD've BEEN PUBLISHED AUGUST 28, 2023.
+
+
 RICE UP !!
-
-THIS ARTICLE SHOULD've BEEN PUBLISHED AUGUST 28, 2023.
-
-
 
 
 With the current prices of rice inching up again recently, I can’t help but to write my thoughts out again. So that I can share my two cents about this pressing matter that concerns majority of Filipinos in this post-pandemic time. For sharing is caring, my friends. 
