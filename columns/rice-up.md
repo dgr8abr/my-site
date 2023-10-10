@@ -8,7 +8,7 @@ para_footer : To be updated with my future columns, click
 para_link : here and save my RSS feeds
 ---
 
-# #1 **RICE UP**
+# #3 **RICE UP**
 
 RICE UP !!
 
