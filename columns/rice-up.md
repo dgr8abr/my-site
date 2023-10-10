@@ -13,6 +13,10 @@ para_link : here and save my RSS feeds
 RICE UP !!
 
 THIS ARTICLE SHOULD've BEEN PUBLISHED AUGUST 28, 2023.
+
+
+
+
 With the current prices of rice inching up again recently, I can’t help but to write my thoughts out again. So that I can share my two cents about this pressing matter that concerns majority of Filipinos in this post-pandemic time. For sharing is caring, my friends. 
 
 Last month, the President delivered his 2nd annual State of the Nation Address inside the Batasang Pambansa. Many attended the occasion as the President announced his achievements this past year and his goals for the next in front of the joint session of Congress.
