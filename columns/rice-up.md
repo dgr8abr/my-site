@@ -13,8 +13,6 @@ para_link : here and save my RSS feeds
 ### - THIS ARTICLE SHOULD've BEEN PUBLISHED AUGUST 28, 2023.
 
 
-
-
 With the current prices of rice inching up again recently, I can’t help but to write my thoughts out again. So that I can share my two cents about this pressing matter that concerns majority of Filipinos in this post-pandemic time. For sharing is caring, my friends. 
 
 Last month, the President delivered his 2nd annual State of the Nation Address inside the Batasang Pambansa. Many attended the occasion as the President announced his achievements this past year and his goals for the next in front of the joint session of Congress.
@@ -37,7 +35,7 @@ But, in my viewpoint, if someone wants to win the next elections. One must be ab
 
 Aside from being bold by trimming the pork, the president should also make sure that there’s urgency in his affairs as looking at our public debt that’s now inched up to 14.1 trillion PESOS, consisting 63% of our GDP will make him scratch his head even more. Even though our economic managers don’t want us to worry as 63 percent is still lower than US or Japan’s debt to GDP ratio. We shouldn’t compare ourselves to those countries as those countries have higher HDI’s and overall economic numbers.
 
-But urgency without planning won’t be better for anyone. So devising a plan with concrete actions should be the priority of any leader who plans to boost its country’s efforts in this post-pandemic era.
+But urgency without planning won’t be better for anyone, so devising a plan with concrete actions should be the priority of any leader who plans to boost its country’s efforts in this post-pandemic era.
 
 The failure of the Pinklawans and the Yellow clique to provide us a sound government system caused 31 million of us choose another Marcos.  A member of a family that Filipinos had already overthrown 40 years ago through a historic peaceful revolution.  Is this the way we look at our elected officials?  A biodegradable trash that we keep recycling them ? No wonder we keep suffering from the same story of inefficiency and corruption; it’s because of this particular mindset.
 
