@@ -8,7 +8,7 @@ para_footer : To be updated with my future columns, click
 para_link : here and save my RSS feeds
 ---
 
-# 4 -  ** DISPUTES**
+# 4 -  DISPUTES
 
 The harassment suffered by a Filipino fisherman interviewed in the evening news last night from the hands of a Chinese vessel is something that we Filipinos should not take for granted. This skirmish is alarming that it led me to write another political column.
 
