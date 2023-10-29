@@ -14,11 +14,11 @@ The harassment suffered by a Filipino fisherman interviewed in the evening news 
 
 In times like these, we should show that the Bayanihan spirit is at least possible towards our poor Filipino fishermen in the disputed waters of South China Sea. 
 
-“Bayanihan” — a Filipino trait that was taught in school when we were kids; wherein it would depict a band of people bringing a hut, and moving it to a different place showing our Filipino solidarity towards our neighbor.  But what can we do to help the poor fisherman near the disputed watersl, if it is indeed nearer to the Philippines compared to China.
+“Bayanihan” — a Filipino trait that was taught in school when we were kids; wherein it would depict a band of people bringing a hut, and moving it to a different place showing our Filipino solidarity towards our neighbor.  But what can we do to help the poor fisherman near the disputed waters, if it is indeed nearer to the Philippines compared to China.
 
 Why don’t we join together, for our hapless fishermen? Where is the Bayanihan spirit that was inculcated to us when we were kids? If bayanihan was indeed in our veins, we as fellow Filipinos, should at least organize a protest in front of the Chinese embassy and burn effigies to show our vexation towards these imperialistic conduct of the Chinese government. 
 
-Signs of the economic times perhaps. People would rather stay in their homes and tackle their issues, either personal or family, rather than join or organize a rally.
+Signs of the economic times perhaps, people would rather stay in their homes and tackle their issues, either personal or family, rather than join or organize a rally.
 
 And we as a nation, afraid of the repercussions that will happen, either economic or civil, will just outweigh the courage in our hearts. Unlike the willful Vietnamese who loots and burns Chinese owned buildings in Vietnam.  Why don’t we imitate the Vietnamese them were so brave and patriotic that they would burn and loot the Chinese owned buildings in Vietnam? But I won’t suggest doing that as it’s pure lawlessness.
 
@@ -38,8 +38,8 @@ Taking hostages such as innocent civilians especially kids is just purely barbar
 
 Speaking of children, I happened to visit my former school in Cebu City, few weeks ago and as I walked on the sidewalks outside. I saw how the pandemic pauperized the lower class since multiple families together with their kids are sleeping in the sidewalks while some of the children were playing. Can our leaders mend their ways, give these people a decent housing to live in and bring back their dignity in life?. Isn’t it their duty to help these kids, nourish their frail bodies and prepare them for school, as they are the future of this country?.
 
-At present, the Vice President is facing issues with regards to her “confidential funds”, making it the latest buzzword in national politics since the Vice President’s detractors and few congressmen who stripped her of it for alleged malversation.
+At present, the Vice President is facing issues with regards to her “confidential funds”, making it the latest buzzword in national politics since the Vice President’s detractors and few lawmakers who stripped her of it for alleged malversation.
 
-Our local leaders should’ve prioritized funding the basics such as education, health or housing instead of allocating money for confidential funds or the unconstitutional pork cuts that our lawmakers can collect from time to time; thus, politicizing this early by financing demolition jobs against the Vice President won’t be beneficial for the us, for the rift between both institutions just slows everything down that it'll just make our leaders forget the real score on the ground and that is serving the public, especially now that we need to recuperate from the effects of the pandemic to our economy.
+Our local leaders should’ve prioritized funding the basics such as education, health or housing instead of allocating money for confidential funds or the unconstitutional pork cuts that our lawmakers can collect from time to time; thus, politicizing this early by financing demolition jobs against the Vice President won’t be beneficial for the ordinary Juan De La Cruz, as the rift between both institutions just slows everything down that it'll just make our leaders forget the real score on the ground and that is serving the public, especially now that we need to recuperate from the effects of the pandemic to our economy.
 
 Let’s not forget that, before we vote for our Barangay and SK Officers come October 30. May the 1.2 Million candidates who filed their COC’s to be compassionate enough to represent the downtrodden in the 42,000 barangays they’re vying for.  
