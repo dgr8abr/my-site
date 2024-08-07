@@ -1,11 +1,12 @@
 # General Site Settings
 menu :
   - {name: 'Blogs', url: ''}
-  - {name: 'Columns',   url: 'columns'}
   - {name: 'Work',  url: 'work'}
+  - {name: 'Books', url: 'book'}
+  # - {name: 'Columns',   url: 'columns'}
   - {name: 'Projects', url: 'projects'}
-  - {name: 'Journal', url: 'journal'}
-  - {name: 'Podcasts', url: 'podcasts'}
+  - {name: 'Journal', url: 'journals'}
+  # - {name: 'Podcasts', url: 'podcasts'}
 
 column:
   - { name: 'Inequality and Inefficiency', date : 2023-07-16, url: 'columns/inequality-and-inefficiency' } 
