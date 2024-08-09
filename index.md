@@ -2,26 +2,13 @@
 layout: default
 permalink: /
 title: A.I.B
-page_title: Blogs
-page_link_phrase : Click here to be updated with my RSS feeds.
-page_link_phrase_2 : Welcome to my site here you can view all the things about me, now check all my blogs below.
+page_title: Welcome to my website mans
+page_link_phrase_3 : and my goal in life is to change lives for the better. I may have fell in life many times and made many mistakes but I'm still rising up everyday.   
+page_link_phrase : sales professional
+page_link_phrase_2 : My name is Abrham, I'm a
+introd : This is cool	
+content: This is my idea
 ---
-
-<div class="p-4 bg-grey-lightest">
-	{% for post in site.posts %}
-	<div>
-		<a href="{{ post.url }}" class="text-xl text-grey-dark font-bold no-underline hover:text-black">
-			{{ post.title }}    
-		</a>
-	</div>
-	<p class="text-grey-darkest text-base leading-normal mt-1">
-			 {{ post.content | markdownify | strip_html | truncatewords: 30 }}
-	</p>
-	<div class="mb-8 text-grey-darkest text-base leading-normal mt-2">
-		<a href="" class="text-grey-darker hover:text-black text-sm no-underline hover:underline">Read this blog post that was Posted on : {{ post.date | date_to_string }} </a>
-	</div>
-	{% endfor %}
-</div>
 
 
 <!-- 

@@ -1,12 +1,12 @@
 # General Site Settings
 menu :
-  - {name: 'Blogs', url: ''}
-  - {name: 'Work',  url: 'work'}
-  - {name: 'Books', url: 'book'}
+  - {name: 'Blogs', url: 'blogs'}
+  - {name: 'Work',  url: 'works'}
+  - {name: 'Books', url: 'books'}
   # - {name: 'Columns',   url: 'columns'}
   - {name: 'Projects', url: 'projects'}
   - {name: 'Journal', url: 'journals'}
-  # - {name: 'Podcasts', url: 'podcasts'}
+  - {name: 'Podcasts', url: 'podcasts'}
 
 column:
   - { name: 'Inequality and Inefficiency', date : 2023-07-16, url: 'columns/inequality-and-inefficiency' } 
@@ -14,23 +14,30 @@ column:
   - { name: 'Rice Up', date : 2023-08-28, url:  'columns/rice-up' }
   - { name: 'Disputes', date : 2023-10-10, url:  'columns/disputes' }
 
+books:
+  - { name: 'Currently Working', description : 'This is where I post the books that I am currently writing', url:  'books/ongoing' }
+  - { name: 'Published Books', description : 'The books that I''ve published are written here' , url: 'books/published' } 
+  - { name: 'My Reads', description : 'The books that inspire me to write and live.', url:  'books/reads' }
+
 # Work Section
 
 work:
-  - {name: 'Copywriting 101',   url: 'work/copywriting'}
-  - {name: 'Content Writing',   url: 'work/content-writing'}
-  - {name: 'Column Writing',   url: 'work/column-writing'}
-  - {name: 'Songwriting', url: ' work/songwriting'}
-
+  - {name: 'Sales and Marketing',  description : 'Look at my work on how I became good in sales.',  url: 'work/sales'}
+  - {name: 'Music', description : 'Where I published my written songs and whole other work in music. ',  url: 'work/music'}
+  - {name: 'Podcast Editing', description : 'Look at my work on how I became good in sales.',  url: 'work/podcasts'}
 #-------------------------------
-# Contact Section
 
-social:
-  - {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-  - {icon: 'instagram', link: 'https://instagram.com/paululele'}
-  - {icon: 'github',    link: 'https://github.com/lenpaul'}
-  - {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-  - {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+
+sales:
+  - { name: 'Cold Calling',  description : 'Loremcat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+',  url: 'sales/cold-calling'}
+  - { name: 'Telemarketing', description : 'Where I published my written songs and whole other work in music. ',  url: 'work/music'}
+  - { name: 'CRM Tools', description : 'Look at my work on how I became good in sales.',  url: 'work/podcasts'}
+#-------------------------------
+
+
+# Contact Section
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 

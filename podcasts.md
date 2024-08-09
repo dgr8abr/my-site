@@ -2,7 +2,6 @@
 layout: default
 permalink: /podcasts
 title: A.I.B
-page_title: PODCASTS
+page_title: Podcasts
 ---
 
-## UNDER CONSTRUCTION !!!

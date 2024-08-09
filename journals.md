@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /journal
+permalink: /journals
 title: A.I.B
 page_title: Journal
 ---
 
-## UNDER CONSTRUCTION !!!
+This is where I'll write my journals

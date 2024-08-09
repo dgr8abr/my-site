@@ -1,12 +1,14 @@
 - name: Blogs
   link: /
-- name: Columns
-  link: /columns
 - name: Work
   link: /work
-- name: Contact
+- name: Books
+  link: /books
+- name: Project
   link: /contact
 - name: Journal
   link: /journal
 - name: Projects
   link: /projects
+- name: Books
+  link: /books

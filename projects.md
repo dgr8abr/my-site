@@ -5,4 +5,4 @@ title: A.I.B
 page_title: Projects
 ---
 
-## UNDER CONSTRUCTION !!!
+I will write my projects here as soon as possible
