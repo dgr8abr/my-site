@@ -10,7 +10,7 @@ gem 'guard-livereload'
 gem 'guard-jekyll-plus'
 gem "webrick", "~> 1.7"
 
-gem "jekyll-octopod"
+# gem "jekyll-octopod"
 
 
 group :jekyll_plugins do

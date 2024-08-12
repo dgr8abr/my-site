@@ -17,10 +17,13 @@ permalink : /work/sales
 		</a>
 	</div>
 	<p class="text-grey-darkest text-base leading-normal mt-1">
-			 {{ post.content | markdownify | strip_html | truncatewords: 20 }}
+			 {{ sale.description | markdownify | strip_html | truncatewords: 20 }}
 	</p>
 	<div class="mb-8 text-grey-darkest text-base leading-normal mt-2">
-		<a href="" class="text-grey-darker hover:text-black text-sm 	no-underline hover:underline">Read this blog post that was Posted on : {{ post.date | date_to_string }} </a>
+		<a href="" class="text-grey-darker hover:text-black text-sm 	no-underline hover:underline">Lorem20 </a>
 	</div>
 	{% endfor %}
 </div>
+
+
+

@@ -1,3 +1,18 @@
 ---
 layout: default
 ---
+
+<h2 class="post_title">
+  {{ page.title }}
+  {% if page.date %}
+  {% endif %}
+</h2>
+
+<small class="text-sm">{{ page.date | date_to_string }}</small>
+
+    
+  <div class="mt-6 markdown js-blog-post-body flex-center">
+
+      {{ content }}
+
+  </div>

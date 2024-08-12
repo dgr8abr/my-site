@@ -1,10 +1,10 @@
 ---
 layout: default
-permalink: /works
+permalink: /work
 title: A.I.B
 page_title: Work
 page_intro : Welcome to my work page
-page_link_phrase_2 : Here you can view all the things about my work in sales, and whole other things such as Music and etc.	
+page_link_phrase_2 : Here you can view all the things about my work in sales,ss and whole other things such as Music and etc.	
 ---
 
 
