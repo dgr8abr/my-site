@@ -1,6 +1,71 @@
-<div class="block md:hidden">
-  <button class="block" @click="toggleMenu">
-    <svg style="display: block;" :class="menuOpen ? 'hidden' : 'block'" class="block text-black h-6 w-6" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
-    <svg style="display: none;" :class="menuOpen ? 'block' : 'hidden'" class="text-black h-6 w-6" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 8.586L2.929 1.515 1.515 2.929 8.586 10l-7.071 7.071 1.414 1.414L10 11.414l7.071 7.071 1.414-1.414L11.414 10l7.071-7.071-1.414-1.414L10 8.586z"/></svg>
-  </button>
-</div>
+       <div class="relative z-20 flex justify-between items-center">
+        <div class="flex md:block lg:flex items-center max-w-full">
+          <div class="mb-0 md:mb-4 lg:mb-0 flex flex-no-shrink pr-4 md:pr-6 lg:pr-12">
+            <a href="/" class="flex items-center no-underline">
+              <img class="h-12 w-12 md:h-12 md:w-12 lg:h-20 lg:w-20 rounded-full"src="{{ "/assets/src/main.jpg" | absolute_url }}" >
+            </a>  
+          </div>
+
+          <div> 
+            <a href="/" class="block text-black no-underline text-xl lg:text-3xl font-extrabold leading-none lg:leading-tight font-serif">Abrham Bas
+          </a>
+          <nav class="hidden md:flex mt-3 lg:mt-4 uppercase tracking-wide text-xs spaced-x-6">
+
+            {% for item in site.data.settings.menu %}
+            <!--    
+               {% assign url = item.url %}
+
+               case { url }
+
+               when { 'blogs ' or contains '/blog'}
+               <p>TBl</p> -->
+            
+          <!--   {% if url == '/blogs' or contains '/blog'  %}
+
+              {% include blogs_nav.html %}
+
+              {% endif %}
+
+ -->
+
+      <a  href="{{ site.github.url }}/{{ url }}" class="text-grey-dark font-sans font-bold no-underline hover:text-black">
+              {{ item.name }} 
+            </a> 
+
+
+            {% endfor %} 
+
+
+          </nav>
+        </div>
+      </div>
+      <div class="block md:hidden">
+        <button class="block" @click="toggleMenu">
+          <svg style="display: block;" :class="menuOpen ? 'hidden' : 'block'" class="block text-black h-6 w-6" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/  ></svg>
+            <svg style="display: none;" :class="menuOpen ? 'block' : 'hidden'" class="text-black h-6 w-6" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 8.586L2.929 1.515 1.515 2.929 8.586 10l-7.071 7.071 1.414 1.414L10 11.414l7.071 7.071 1.414-1.414L11.414 10l7.071-7.071-1.414-1.414L10 8.586z"/></svg>
+          </button>
+        </div>
+      </div>
+      <!-- end pic with name -->
+
+      <div style="display: none;" :class="menuOpen ? 'block' : 'hidden'" class="md:hidden z-10 bg-white fixed pin pt-24">
+        <div class="spaced-y-8 overflow-y-auto pt-6 pb-8 px-12 max-h-full overflow-y-auto">
+         {% for item in site.data.settings.menu %}
+         <a href="{{ item.url | absolute_url }}" class="block text-grey-darkest font-bold no-underline">
+         {{ item.name }}</a>
+         {% endfor %}
+       </div>
+     </div>
+     <div class="lg:pl-32 mt-12">
+      <div class="max-w-md">
+        <h1 class="text-2xl font-serif font-bold mb-6">{{ page.page_title  }}</h1>
+        <div class="text-lg text-grey-darkest leading-normal spaced-y-6">
+          <p>
+            {{ page.page_link_phrase_2 }} 
+            <a href="#2" class="text-black font-bold font-sans">{{ page.page_link_phrase }} 
+            </a>
+            {{ page.page_link_phrase_3 }} 
+
+          </p>
+        </div>
+        <div>

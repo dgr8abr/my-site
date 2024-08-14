@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /journals
-title: A.I.B
+title: Journals -- AIB
 page_title: Journal
 ---
 

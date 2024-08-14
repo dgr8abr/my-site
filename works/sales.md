@@ -9,7 +9,7 @@ page_link_phrase_2 : This is where I will compile my sales tools and portfolio.
 permalink : /work/sales
 ---
 
-<div class="p-4 bg-grey-lightest">
+<div class="mt-8 p-4 bg-grey-lightest">
 	{% for sale in site.data.settings.sales %}
 	<div>
 		<a href="{{ site.github.url }}/{{ sale.url }}" class="text-xl text-grey-dark font-bold no-underline hover:text-black">

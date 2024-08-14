@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blogs
-title: A.I.B
+title: A.I.B -- Blogs
 page_title: Blogs
 
 page_link_phrase_2 : Welcome to my Blogs page, here you can view all the things about me, now check all my blogs below. Click here to be updated with my RSS feeds.
@@ -9,7 +9,7 @@ page_link_phrase_2 : Welcome to my Blogs page, here you can view all the things 
 page_link_phrase : sales professional
 ---	
 
-<div class="p-4 bg-grey-lightest">
+<div class="p-4 mt-2">
 	{% for post in site.posts %}
 	<div>
 		<a href="{{ post.url }}" class="text-xl text-grey-dark font-bold no-underline hover:text-black">

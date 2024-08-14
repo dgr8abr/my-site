@@ -1,12 +1,13 @@
 ---
 layout: post
 author: aib
-page_title :  Blog
+page_subtitle : Blog
+title :  My First Blog of 2024
+page_title_content : My First Blog of 2024
 permalink :  /blog/2024-first-blog
 ---
 
 
-This is awesome.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

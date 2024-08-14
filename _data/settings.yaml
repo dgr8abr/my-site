@@ -30,8 +30,10 @@ work:
 
 sales:
   - { name: 'Cold Calling',  description : 'I compiled all my recorded cold calls in here, so check them out.',  url: 'work/sales/cold-calling'}
-  - { name: 'Sales Techniques', description : 'Where I published my written songs and whole other work in music. ',  url: 'work/music'}
+  - { name: 'Sales Techniques', description : 'Where I published my written songs and whole other work in music. ',  url: 'work/sales/techniques'}
   - { name: 'CRM Tools', description : 'Look at my work on how I became good in sales.',  url: 'work/podcasts'}
+  - { name: 'Productivity Tools', description : 'Look at my work on how I became good in sales.',  url: 'work/podcasts'}
+  - { name: 'Blogs', description : 'Look at my work on how I became good in sales.',  url: 'work/podcasts'}
 #-------------------------------
 
 

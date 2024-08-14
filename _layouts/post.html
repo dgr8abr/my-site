@@ -1,18 +1,30 @@
 ---
 layout: default
 ---
-
 <h2 class="post_title">
-  {{ page.title }}
-  {% if page.date %}
-  {% endif %}
+ <a href="#" class="underline text-grey-darker font-serif"> 
+</a>
+  <p>{{ page_title_content }} </p>
+
+{{ page.page_main_title }}
+ <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-4 w-4">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
+  </svg>
+{{ page.page_subtitle }}
+
+ <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-4 w-4">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
+  </svg>
+   {{ page.page_title_content }}
+
+      {% if page.date %}
+     
+
+      {% endif %}
 </h2>
 
+
 <small class="text-sm">{{ page.date | date_to_string }}</small>
-
-    
-  <div class="mt-6 markdown js-blog-post-body flex-center">
-
+<div class="mt-6 markdown js-blog-post-body flex-center">
       {{ content }}
-
-  </div>
+</div>

@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /books
-title: A.I.B
+title: A.I.B - Books
 page_title: Books
 page_link_phrase_2 : I love to read and write so This is where I compiled all the books that made me who I am.
 

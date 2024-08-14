@@ -1,9 +1,14 @@
 ---
 layout: post
 author: aib
-page_title :  Blog
+title :  New Update
+page_title_content : New Update
 permalink :  /blog/new-update
+
 ---
+
+
+
 
 Good day
 
