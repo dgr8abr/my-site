@@ -1,13 +1,12 @@
 ---
+title: My First Blog of 2024
+date: 2024-08-09 00:00:00 Z
+permalink: "/blog/2024-first-blog"
 layout: post
 author: aib
-page_subtitle : Blog
-title :  My First Blog of 2024
-page_title_content : My First Blog of 2024
-permalink :  /blog/2024-first-blog
+page_subtitle: Blog
+page_title_content: My First Blog of 2024
 ---
-
-
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

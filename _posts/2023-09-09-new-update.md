@@ -1,14 +1,11 @@
 ---
+title: New Update
+date: 2023-09-09 00:00:00 Z
+permalink: "/blog/new-update"
 layout: post
 author: aib
-title :  New Update
-page_title_content : New Update
-permalink :  /blog/new-update
-
+page_title_content: New Update
 ---
-
-
-
 
 Good day
 

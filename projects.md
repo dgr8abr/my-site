@@ -1,7 +1,7 @@
 ---
+title: Projects - A.I.B
+permalink: "/projects"
 layout: default
-permalink: /projects
-title: Projects - A.I.B 
 page_title: Projects
 ---
 

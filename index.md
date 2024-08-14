@@ -1,7 +1,7 @@
 ---
-layout: default
-permalink: /
 title: A.I.B
+permalink: "/"
+layout: default
 page_title: Welcome to my website mans
 ---
 

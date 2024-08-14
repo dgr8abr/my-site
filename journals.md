@@ -1,7 +1,7 @@
 ---
-layout: default
-permalink: /journals
 title: Journals -- AIB
+permalink: "/journals"
+layout: default
 page_title: Journal
 ---
 

@@ -1,12 +1,11 @@
 ---
+title: Sales Career
+permalink: "/work/sales"
 layout: default
-title : Sales Career
-page_title : Sales and Marketing
-author: aib
 page_title: Sales and Marketing
-page_intro : Welcome to my work page
-page_link_phrase_2 : This is where I will compile my sales tools and portfolio.
-permalink : /work/sales
+author: aib
+page_intro: Welcome to my work page
+page_link_phrase_2: This is where I will compile my sales tools and portfolio.
 ---
 
 <div class="mt-8 p-4 bg-grey-lightest">

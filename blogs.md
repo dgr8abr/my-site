@@ -1,13 +1,12 @@
 ---
-layout: default
-permalink: /blogs
 title: A.I.B -- Blogs
+permalink: "/blogs"
+layout: default
 page_title: Blogs
-
-page_link_phrase_2 : Welcome to my Blogs page, here you can view all the things about me, now check all my blogs below. Click here to be updated with my RSS feeds.
-
-page_link_phrase : sales professional
----	
+page_link_phrase_2: Welcome to my Blogs page, here you can view all the things about
+  me, now check all my blogs below. Click here to be updated with my RSS feeds.
+page_link_phrase: sales professional
+---
 
 <div class="p-4 mt-2">
 	{% for post in site.posts %}

@@ -1,11 +1,11 @@
 ---
+title: Column
+permalink: "/columns/inequality-and-inefficiency"
 layout: default
-title : Column # 1
-page_title : The ViewPoint
+page_title: The ViewPoint
 author: aib
-permalink : /columns/inequality-and-inefficiency
-para_footer : To be updated with my future columns, click 
-para_link : here and save my RSS feeds
+para_footer: To be updated with my future columns, click
+para_link: here and save my RSS feeds
 ---
 
 # #1 **INEQUALITY and INEFFICIENCY**

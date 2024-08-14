@@ -1,12 +1,13 @@
 ---
+title: Column
+permalink: "/columns/hola-niño"
 layout: default
-title : Column # 2
-page_title : The ViewPoint
+page_title: The ViewPoint
 author: aib
-permalink : /columns/hola-niño
-para_footer : To be updated with my future columns, click 
-para_link : here and save my RSS feeds.
+para_footer: To be updated with my future columns, click
+para_link: here and save my RSS feeds.
 ---
+
 # **Hola Niño**
 
 Is this the real life ? Is this just fantasy ? Caught up in a landslide....... Look in the sky and see,  a rainy El Niño season ? 

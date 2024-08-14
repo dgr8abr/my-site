@@ -1,12 +1,12 @@
 ---
+title: Work - A.I.B
+permalink: "/work"
 layout: default
-permalink: /work
-title: Work - A.I.B 
 page_title: Work
-page_intro : Welcome to my work page
-page_link_phrase_2 : Here you can view all the things about my work in sales,ss and whole other things such as Music and etc.	
+page_intro: Welcome to my work page
+page_link_phrase_2: Here you can view all the things about my work in sales,ss and
+  whole other things such as Music and etc.
 ---
-
 
 <div class="p-4 bg-grey-lightest">
 	{% for work in site.data.settings.work %}

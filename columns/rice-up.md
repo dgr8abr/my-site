@@ -1,11 +1,11 @@
 ---
+title: Column
+permalink: "/columns/rice-up"
 layout: default
-title : Column # 3
-page_title : The Viewpoint
+page_title: The Viewpoint
 author: aib
-permalink : /columns/rice-up
-para_footer : To be updated with my future columns, click 
-para_link : here and save my RSS feeds
+para_footer: To be updated with my future columns, click
+para_link: here and save my RSS feeds
 ---
 
 # #3 **RICE UP**

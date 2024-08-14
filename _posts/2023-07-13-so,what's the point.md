@@ -1,12 +1,12 @@
 ---
+title: What's the Point ?
+date: 2023-07-13 00:00:00 Z
+permalink: "/blog/2023/whats-the-point"
 layout: post
 author: aib
-title : What's the Point ? 
 comments: true
-permalink :  /blog/2023/whats-the-point
-
 ---
- 
+
 Good day, 
 Welcome to my website and I appreciate you visiting my blog,
 If you’re reading this, then maybe you knew me before or perhaps we met once or twice somewhere or you’re a total stranger who just happened to click on one of my profiles online.

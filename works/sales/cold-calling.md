@@ -1,12 +1,10 @@
 ---
-layout: post
-page_subtitle : Sales and Marketing
 title: Cold Calling Portfolio
-permalink: /work/sales/cold-calling
+permalink: "/work/sales/cold-calling"
+layout: post
+page_subtitle: Sales and Marketing
 colour: pink
 page_title: Sales and Marketing
-
-
 ---
 
 I compiled all my cold calling recordings so that you guys can learn from me a thing or two. 
