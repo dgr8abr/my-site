@@ -1,8 +1,8 @@
 # General Site Settings
 menu :
-  - {name: 'Blogs', url: 'blogs'}
-  - {name: 'Work',  url: 'work'}
-  - {name: 'Books', url: 'books'}
+  - { name: 'Blogs', url: 'blogs'}
+  - { name: 'Work',  url: 'work'}
+  - { name: 'Books', url: 'books'}
   # - {name: 'Columns',   url: 'columns'}
   - {name: 'Projects', url: 'projects'}
   - {name: 'Journal', url: 'journals'}
@@ -31,8 +31,8 @@ work:
 sales:
   - { name: 'Cold Calling',  description : 'I compiled all my recorded cold calls in here, so check them out.',  url: 'work/sales/cold-calling'}
   - { name: 'Sales Techniques', description : 'Where I published my written songs and whole other work in music. ',  url: 'work/sales/techniques'}
-  - { name: 'CRM Tools', description : 'Look at my work on how I became good in sales.',  url: 'work/podcasts'}
-  - { name: 'Productivity Tools', description : 'Look at my work on how I became good in sales.',  url: 'work/podcasts'}
+  - { name: 'CRM Tools', description : 'Look at my work on how I became good in sales.',  url: 'work/sales/crm'}
+  - { name: 'Productivity Tools', description : 'Look at my work on how I became good in sales.',  url: 'work/sales/tool'}
   - { name: 'Blogs', description : 'Look at my work on how I became good in sales.',  url: 'work/podcasts'}
 #-------------------------------
 

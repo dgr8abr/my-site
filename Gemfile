@@ -15,6 +15,3 @@ group :jekyll_plugins do
 	gem 'jekyll-seo-tag'
 end 
 
-
-# gem "public_suffix", path: "/my/path/with/gems"
-# gem "github-pages", group: :jekyll_plugins

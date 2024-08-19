@@ -13,7 +13,7 @@ page_link_phrase : sales professional
 	{% for post in site.posts %}
 	<div>
 		<a href="{{ post.url }}" class="text-xl text-grey-dark font-bold no-underline hover:text-black">
-			{{ post.title }}    
+		{{ post.title }}    
 		</a>
 	</div>
 	<p class="text-grey-darkest text-base leading-normal mt-1">

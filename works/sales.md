@@ -19,9 +19,9 @@ permalink : /work/sales
 	<p class="text-grey-darkest text-base leading-normal mt-1">
 			 {{ sale.description | markdownify | strip_html | truncatewords: 20 }}
 	</p>
-	<div class="mb-8 text-grey-darkest text-base leading-normal mt-2">
-		<a href="" class="text-grey-darker hover:text-black text-sm 	no-underline hover:underline">Lorem20 </a>
-	</div>
+
+<div class="mb-8 text-grey-darkest text-base leading-normal mt-2">
+</div>
 	{% endfor %}
 </div>
 

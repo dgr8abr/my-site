@@ -10,30 +10,20 @@
             <a href="/" class="block text-black no-underline text-xl lg:text-3xl font-extrabold leading-none lg:leading-tight font-serif">Abrham Bas
           </a>
           <nav class="hidden md:flex mt-3 lg:mt-4 uppercase tracking-wide text-xs spaced-x-6">
+      {% for item in site.data.settings.menu %}
+          {% assign current = nil %} 
+         {% assign url = item.url %}
 
-            {% for item in site.data.settings.menu %}
-            <!--    
-               {% assign url = item.url %}
+      {% if page.url contains item.url %} 
+           {% assign current = 'text-lg font-black' %} 
+         {% endif %}
+      
+         <a 
+          href="{{ site.github.url }}/{{ url }}" class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %} text-grey-dark  font-sans no-underline">
+                    {{ item.name }} 
+                  </a>
 
-               case { url }
-
-               when { 'blogs ' or contains '/blog'}
-               <p>TBl</p> -->
-            
-          <!--   {% if url == '/blogs' or contains '/blog'  %}
-
-              {% include blogs_nav.html %}
-
-              {% endif %}
-
- -->
-
-      <a  href="{{ site.github.url }}/{{ url }}" class="text-grey-dark font-sans font-bold no-underline hover:text-black">
-              {{ item.name }} 
-            </a> 
-
-
-            {% endfor %} 
+      {% endfor %} 
 
 
           </nav>
@@ -50,10 +40,24 @@
 
       <div style="display: none;" :class="menuOpen ? 'block' : 'hidden'" class="md:hidden z-10 bg-white fixed pin pt-24">
         <div class="spaced-y-8 overflow-y-auto pt-6 pb-8 px-12 max-h-full overflow-y-auto">
+
+        
+
          {% for item in site.data.settings.menu %}
-         <a href="{{ item.url | absolute_url }}" class="block text-grey-darkest font-bold no-underline">
+            {% assign current = nil %} 
+            {% assign url = item.url %}
+
+
+      {% if page.url contains item.url or page.url contains item%} 
+               {% assign current = 'text-lg text-blue font-black' %} 
+               {% endif %}
+
+         <a href="{{ item.url | absolute_url }}" class="
+{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %} block text-grey-dark font-sans font-bold no-underline">
          {{ item.name }}</a>
          {% endfor %}
+
+
        </div>
      </div>
      <div class="lg:pl-32 mt-12">

@@ -5,8 +5,10 @@ collections:
 
 # port: 4000
 # markdown:  kramdown
-permalink: /:title
 plugins: [ jekyll-feed, jekyll-seo-tag ]
+
+permalink: /:categories/:title/
+
 
 
 title :       "Abrham Bas"
