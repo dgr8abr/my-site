@@ -9,10 +9,7 @@ page_title_content: Cold Calling Portfolio
 
 ---
 
-
-
 I compiled all my cold calling recordings so that you guys can learn from me a thing or two. 
-
 
 
 Unfortunately, I had to put a bleep on some of the confidential information to protect their identity.
@@ -29,6 +26,8 @@ Well, you can ask them personally if their solar panels are still working til no
 
 {% include open-embed.html  %}
 
+> That tonality of mine really worked Look how I changed my tonality to sound that I'm talking like a calm person.
+
 **2. Greyson Sygulla**
 
  Greyson was from Illinois 
@@ -44,7 +43,11 @@ Luis was from New York
 
 **5. David Vamvakias**
 
-David was from California
+David was from San Bernardino, California.
+
+**6. Betty Retama** 
+
+Betty was from Huntington Park, CA. Her spouse is Jose Escamilla. 
 
 
 

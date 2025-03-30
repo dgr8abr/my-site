@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title : Column # 1
 page_title : The ViewPoint
 author: aib

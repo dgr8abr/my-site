@@ -19,14 +19,17 @@
         <p>{{ page.para_footer }} <a href="#" class="text-black">{{ page.para_link }}</a>.
         </p>
       </div>
+</div>
 
 </div>
 
-
-</div>
 </div>
 
 <script src="{{ 'assets/vue.js' | absolute_url }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+<script>hljs.highlightAll();</script>
+
 <script>
   new Vue({
       el: '#app',

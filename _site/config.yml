@@ -28,6 +28,9 @@ disqus_developer: 0 # 1 | 0
 ### Isso comments
 use_isso: "no" # "no" | "yes"
 
+kramdown:
+  auto_ids: true
+
 ### Jekyll Admin: uncomment the last two lines of this paragraph to enable Jekyll Admin.
 ### (but you will loose auto regeneration after code changes with a text editor then)
 # plugins:

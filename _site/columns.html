@@ -16,6 +16,10 @@
  <link href="https://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet">
  <link rel="stylesheet" href="http://localhost:4000/assets/fonts.css">
  <link rel="stylesheet" href="http://localhost:4000/assets/style.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css">
+
+
  <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
        <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
        
@@ -51,6 +55,8 @@
   gtag('js', new Date());
   gtag('config', 'G-WL8C3CWJ9R');
 </script>
+
+
 </head>
 
 <body class="font-sans leading-tight antialiased">
@@ -299,14 +305,17 @@ first   block text-grey-dark font-sans font-bold no-underline">
         <p> <a href="#" class="text-black"></a>.
         </p>
       </div>
+</div>
 
 </div>
 
-
-</div>
 </div>
 
 <script src="http://localhost:4000/assets/vue.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+<script>hljs.highlightAll();</script>
+
 <script>
   new Vue({
       el: '#app',
