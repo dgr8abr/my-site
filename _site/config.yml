@@ -27,7 +27,7 @@ disqus_developer: 0 # 1 | 0
 
 ### Isso comments
 use_isso: "no" # "no" | "yes"
-
+  
 kramdown:
   auto_ids: true
 

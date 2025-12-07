@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title : Column # 3
 page_title : The Viewpoint
 author: aib
@@ -10,7 +10,7 @@ para_link : here and save my RSS feeds
 
 # #3 **RICE UP**
 
-### - THIS ARTICLE SHOULD've BEEN PUBLISHED AUGUST 28, 2023.
+### - THIS ARTICLE SHOULD HAVE BEEN PUBLISHED AUGUST 28, 2023.
 
 
 With the current prices of rice inching up again recently, I can’t help but to write my thoughts out again. So that I can share my two cents about this pressing matter that concerns majority of Filipinos in this post-pandemic time. For sharing is caring, my friends. 
@@ -39,7 +39,9 @@ But urgency without planning won’t be better for anyone, so devising a plan wi
 
 The failure of the Pinklawans and the Yellow clique to provide us a sound government system caused 31 million of us choose another Marcos.  A member of a family that Filipinos had already overthrown 40 years ago through a historic peaceful revolution.  Is this the way we look at our elected officials?  A biodegradable trash that we keep recycling them ? No wonder we keep suffering from the same story of inefficiency and corruption; it’s because of this particular mindset.
 
-Which led me to think of what transpired 40 years after Ninoy Aquino’s death. When we replaced an autocratic government with a democracy that promised to us freedom, only to allow the creation of the few nouveau riche. Citing the likes of Janet Lim Napoles and the few government officials who were charged with graft cases but still managed to get elected back again to public office.  In my viewpoint, too much of that freedom made people complacent about discipline and the way our government led made corruption possible because of this freedom, For the Philippines : we should be more certain with our rules ; we should be able to mix liberal and stern policies for it to be better and therefore, my standard for voting a leader is someone that can provide me a mix to that type of cocktail.
+Which led me to think of what transpired 40 years after Ninoy Aquino’s death. When we replaced an autocratic government with a democracy that promised to us freedom, only to allow the creation of the few nouveau riche. Citing the likes of Janet Lim Napoles and the few government officials who were charged with graft cases but still managed to get elected back again to public office.  
+
+In my viewpoint, too much of that freedom made people complacent about discipline and the way our government led made corruption possible because of this freedom, For the Philippines : we should be more certain with our rules ; we should be able to mix liberal and stern policies for it to be better and therefore, my standard for voting a leader is someone that can provide me a mix to that type of cocktail.
 
 Meanwhile, for devout Catholics, August 28 is a date worth noting, as it is the feast day of St. Augustine, the patron saint for brewers, a notable figure in the church, and for me a role model for all truth-seekers in this world, a famous saint who was a renowned convert, who once was lived a life of pure freedom beguiled with worldly pleasures; seeking the truth only to find himself truth in finding God. May he be an inspiration to us Filipinos who are trying to seek truth in this post-truth world; to be a better Christian and to be able to realize our full potential as an individual.
 
